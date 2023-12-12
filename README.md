@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+  * 🔭 Hi, I'm Eric and I'm an Front-end Engineer.
+  * 🌱 I’m currently learning something cool about dynamic web
 <!--
 **tangtang1b1b/tangtang1b1b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
